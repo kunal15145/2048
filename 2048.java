@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 import java.util.Random;
 
-public class lab2g
+public class 2048
 {
 	public static int[][] mat = new int[4][4];
 	static int count1=0;
