@@ -16,3 +16,4 @@ Use the following commands in a linux/window terminal
 - java 2048
 
 Might have some errors in some cases , But suggestions and changes are always welcome
+ #Some AI changes should be implemented
